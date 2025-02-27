@@ -13,3 +13,6 @@
 //3.Visualizar a lista: Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
 //4.Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado 
 // aleatoriamente e exibido na página.
+
+//Lista que irá receber os nomes do sorteio.
+let listadenomes = [];
