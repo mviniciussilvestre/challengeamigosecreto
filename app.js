@@ -16,4 +16,4 @@
 
 //Lista que irá receber os nomes do sorteio.
 let listadenomes = [];
-let quantidadedeamigos = 10;
+let quantidadedeamigos = 5;
